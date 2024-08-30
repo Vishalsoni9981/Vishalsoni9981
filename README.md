@@ -22,16 +22,7 @@
   <a href="https://instagram.com/prahthamlashkari" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="prahthamlashkari" height="30" width="40" />
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.codechef.com/users/pratham_110" target="blank">
-    <img align="center" src="https://images.crunchbase.com/image/upload/c_pad,h_256,w_256,f_auto,q_auto:eco,dpr_1/zruiknbedz8yqafxbazb" alt="pratham212" height="50" width="50" />
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.naukri.com/code360/profile/prathamlashkari" target="blank">
-    <img align="center" src="https://avatars.githubusercontent.com/u/88321750?v=4" alt="pratham lashkari" height="50" width="50" />
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://leetcode.com/Pratham_2521/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="prathamlashkari841" height="50" width="50" />
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://auth.geeksforgeeks.org/user/prathamlashkari" target="blank">
+  <a href="https://www.geeksforgeeks.org/user/vsvishals0lw6/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="prathamlashkari" height="30" width="40" />
   </a>
 </p>

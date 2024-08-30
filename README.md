@@ -45,12 +45,6 @@
  <a href="https://spring.io/" target="_blank" rel="noreferrer"> 
   <img align="center" src="https://img-c.udemycdn.com/course/750x422/3743246_dd3b_2.jpg" alt="spring" width="50" height="40"/> 
  </a>&nbsp;&nbsp;&nbsp;&nbsp;
- <a href="https://react.dev/" target="_blank" rel="noreferrer"> 
-  <img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNN_ihQpQ_ROKLRUjxlJcVaL0zSHU0bVpv-b_-EvGtgQ&s" alt="react" width="50" height="40"/> 
- </a>&nbsp;&nbsp;&nbsp;&nbsp;
- <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
-  <img align="center" src="https://cdn.iconscout.com/icon/free/png-256/free-typescript-1174965.png?f=webp" alt="typescript" width="50" height="40"/> 
- </a>&nbsp;&nbsp;&nbsp;&nbsp;
  <a href="https://sass-lang.com/" target="_blank" rel="noreferrer"> 
   <img align="center" src="https://sass-lang.com/assets/img/styleguide/seal-color.png" alt="sass" width="40" height="40"/> 
  </a>&nbsp;&nbsp;&nbsp;&nbsp;
@@ -63,12 +57,6 @@
  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
   <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
  </a>&nbsp;&nbsp;&nbsp;&nbsp;
- <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-  <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
- </a>&nbsp;&nbsp;&nbsp;&nbsp;
- <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
-  <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> 
- </a>&nbsp;&nbsp;&nbsp;&nbsp;
  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
   <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
  </a>&nbsp;&nbsp;&nbsp;&nbsp;
@@ -77,11 +65,11 @@
  </a>
 </p>
 
- <p align="center"><img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=prathamlashkari&theme=2077" height="180em" />
+ <p align="center"><img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Vishalsoni9981&theme=2077" height="180em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=prathamlashkari&theme=2077" height="180em" /></p>
 
-<p  align="center">&nbsp;<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=prathamlashkari&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=prathamlashkari&theme=2077" height="180em" /><img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=prathamlashkari&theme=2077" height="180em" /></p>
+<p  align="center">&nbsp;<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Vishalsoni9981&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=prathamlashkari&theme=2077" height="180em" /><img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Vishalsoni9981&theme=2077" height="180em" /></p>
 
   <p align="center">
     <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=prathamlashkari&theme=dark&hide_border=true&background=0D1117&stroke=0000&count_private=true&include_all_commits=true" />

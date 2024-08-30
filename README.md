@@ -1,12 +1,12 @@
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=30&pause=1000&color=F7F7F7&background=128CCF00&center=true&vCenter=true&multiline=true&random=false&width=500&lines=Hi+%F0%9F%91%8B%2C+I'm+Pratham+lashkari" alt="Typing SVG"  />
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=30&pause=1000&color=F7F7F7&background=128CCF00&center=true&vCenter=true&multiline=true&random=false&width=500&lines=Hi+%F0%9F%91%8B%2C+I'm+Visha+Soni" alt="Typing SVG"  />
 </a></p><h3 align="center">A CSE Student </h3>
 <p align="center">
   <img src="https://user-images.githubusercontent.com/69011963/137184767-79a13ec7-1bb3-4341-a6da-3a149c9c159a.gif" width="400" height="300" alt="Your Image">
 </p>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=prathamlashkari&label=Profile%20views&color=0e75b6&style=flat" alt="prathamlashkari" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=Vishalsoni9981&label=Profile%20views&color=0e75b6&style=flat" alt="prathamlashkari" /> </p>
  
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prathamlashkari" alt="prathamlashkari" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Vishalsoni9981" alt="prathamlashkari" /></a> </p>
 
 <h4 align="center">- 🔭 I’m currently working on **Major Projects** </h4>
   

@@ -19,7 +19,7 @@
   <a href="https://www.linkedin.com/in/pratham-lashkari/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pratham lashkari" height="30" width="40" />
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://instagram.com/prahthamlashkari" target="blank">
+  <a href="https://www.instagram.com/soni_vishal_1204/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="prahthamlashkari" height="30" width="40" />
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.geeksforgeeks.org/user/vsvishals0lw6/" target="blank">

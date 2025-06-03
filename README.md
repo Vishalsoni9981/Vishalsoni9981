@@ -1,12 +1,12 @@
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=30&pause=1000&color=F7F7F7&background=128CCF00&center=true&vCenter=true&multiline=true&random=false&width=500&lines=Hi+%F0%9F%91%8B%2C+I'm+Visha+Soni" alt="Typing SVG"  />
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=30&pause=1000&color=F7F7F7&background=128CCF00&center=true&vCenter=true&multiline=true&random=false&width=500&lines=Hi+%F0%9F%91%8B%2C+I'm+Vishal+Soni" alt="Typing SVG"  />
 </a></p><h3 align="center">A CSE Student </h3>
 <p align="center">
   <img src="https://user-images.githubusercontent.com/69011963/137184767-79a13ec7-1bb3-4341-a6da-3a149c9c159a.gif" width="400" height="300" alt="Your Image">
 </p>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=Vishalsoni9981&label=Profile%20views&color=0e75b6&style=flat" alt="vishal soni" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=Vishalsoni9981&label=Profile%20views&color=0e75b6&style=flat" alt="Vishal soni" /> </p>
  
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Vishalsoni9981" alt="vishal soni" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Vishalsoni9981" alt="Vishal soni" /></a> </p>
 
 <h4 align="center">- 🔭 I’m currently working on **Major Projects** </h4>
   
@@ -20,7 +20,7 @@
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vishal soni" height="30" width="40" />
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.instagram.com/soni_vishal_1204?igsh=eno2enk5and0bG10" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="prahthamlashkari" height="30" width="40" />
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Vishalsoni" height="30" width="40" />
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.geeksforgeeks.org/user/vsvishals0lw6" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="vishal soni" height="30" width="40" />
@@ -57,10 +57,10 @@
 </p>
 
  <p align="center"><img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Vishalsoni9981&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vishalsoni&theme=2077" height="180em" /></p>
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Vishalsoni&theme=2077" height="180em" /></p>
 
 <p  align="center">&nbsp;<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Vishalsoni9981&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=vishalsoni&theme=2077" height="180em" /><img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Vishalsoni9981&theme=2077" height="180em" /></p>
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Vishalsoni&theme=2077" height="180em" /><img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Vishalsoni9981&theme=2077" height="180em" /></p>
 
   <p align="center">
     <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Vishalsoni9981&theme=dark&hide_border=true&background=0D1117&stroke=0000&count_private=true&include_all_commits=true" />

@@ -4,26 +4,26 @@
 <p align="center">
   <img src="https://user-images.githubusercontent.com/69011963/137184767-79a13ec7-1bb3-4341-a6da-3a149c9c159a.gif" width="400" height="300" alt="Your Image">
 </p>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=Vishalsoni9981&label=Profile%20views&color=0e75b6&style=flat" alt="prathamlashkari" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=Vishalsoni9981&label=Profile%20views&color=0e75b6&style=flat" alt="vishal soni" /> </p>
  
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Vishalsoni9981" alt="prathamlashkari" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Vishalsoni9981" alt="vishal soni" /></a> </p>
 
 <h4 align="center">- 🔭 I’m currently working on **Major Projects** </h4>
   
 <h4 align="center">- 🌱 I’m currently learning **Advance java** </h4>
 
-<h4 align="center">- 📫 How to reach me **prathamlashkari841@gmail.com** </h4>
+<h4 align="center">- 📫 How to reach me **vsvishalsoni1204@gmail.com** </h4>
 
 <h1 align="center">Connect with me:</h1>
 <p align="center">
-  <a href="https://www.linkedin.com/in/pratham-lashkari/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pratham lashkari" height="30" width="40" />
+  <a href="http://www.linkedin.com/in/vishal-soni1204" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vishal soni" height="30" width="40" />
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.instagram.com/soni_vishal_1204/" target="blank">
+  <a href="https://www.instagram.com/soni_vishal_1204?igsh=eno2enk5and0bG10" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="prahthamlashkari" height="30" width="40" />
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.geeksforgeeks.org/user/vsvishals0lw6/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="prathamlashkari" height="30" width="40" />
+  <a href="https://www.geeksforgeeks.org/user/vsvishals0lw6" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="vishal soni" height="30" width="40" />
   </a>
 </p>
 
@@ -57,10 +57,10 @@
 </p>
 
  <p align="center"><img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Vishalsoni9981&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=prathamlashkari&theme=2077" height="180em" /></p>
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vishalsoni&theme=2077" height="180em" /></p>
 
 <p  align="center">&nbsp;<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Vishalsoni9981&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=prathamlashkari&theme=2077" height="180em" /><img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Vishalsoni9981&theme=2077" height="180em" /></p>
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=vishalsoni&theme=2077" height="180em" /><img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Vishalsoni9981&theme=2077" height="180em" /></p>
 
   <p align="center">
     <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Vishalsoni9981&theme=dark&hide_border=true&background=0D1117&stroke=0000&count_private=true&include_all_commits=true" />
